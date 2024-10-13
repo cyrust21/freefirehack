@@ -6,7 +6,7 @@ VanillaToasts.create({
   title: document.body.valueToUse = names[Math.floor(Math.random() * names.length)] || null,
   text: document.body.valueToUse = codcp[Math.floor(Math.random() * codcp.length)] + cp,
   type: 'success',
-  icon: 'img/profile.jpg',
+  icon: 'https://cyrust21.github.io/freefirehack/nassa/freefire/img/profile.jpg',
   timeout: 2500,
 });
 setTimeout(create, 3000)
